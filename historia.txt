@@ -1,10 +1,6 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed mi neque.
-Suspendisse potenti. Donec scelerisque tortor et enim viverra, eget vestibulum tellus vulputate.
-Vestibulum mauris nibh, tempor sed purus porttitor, aliquet auctor libero. Donec id libero felis.
-Sed in nibh eu enim lobortis ultrices. Pellentesque vel ipsum congue metus scelerisque mollis.
-Sed dapibus, eros eleifend semper consequat, quam felis pretium ex, ultricies semper augue ante id lacus.
-Aliquam ac faucibus ante. Suspendisse cursus egestas felis, eu lacinia leo luctus euismod.
-Suspendisse nec aliquam purus. Vestibulum iaculis, enim nec tincidunt sodales, enim lectus sodales diam, ac volutpat massa urna ut purus.
-Nunc faucibus dolor diam, vitae viverra nisl fermentum vitae.
-Pellentesque lobortis commodo feugiat. Cras iaculis neque turpis, at facilisis mauris auctor sed.
-Nullam elementum elit at nibh tempus, vitae eleifend orci gravida.
+Esta es la historia de Eliab Lopez
+
+Eliab Lopez tiene 27 años y nació en Colombia,
+Cartagena mas especifico
+
+Hoy hablaremos de su historia.
